@@ -1,6 +1,17 @@
 " Vim color file
 " Converted from Textmate theme Monokai using Coloration v0.3.2 (http://github.com/sickill/coloration)
 
+"yuzhiyiliu
+set nu
+"set ai
+set expandtab
+set tabstop=4
+set shiftwidth=4
+"set mouse=a
+set incsearch
+filetype indent on
+
+
 set background=dark
 highlight clear
 
